@@ -23,7 +23,7 @@ Download the files from the GitHub repository. Open the files in an IDE. In the 
 ### Images
 - **Example Outcomes:** 
 ### Helpful Links
-- **Java Arrays:** 
-- **Java User Input:**
-- **Java Custom Methods:**
-- **Unix Commands:** 
+- **Java Arrays:** https://www.w3schools.com/java/java_arrays.asp
+- **Java User Input:** https://www.w3schools.com/java/java_user_input.asp
+- **Java Methods:** https://www.w3schools.com/java/java_methods.asp
+- **Unix Commands:** https://mally.stanford.edu/~sr/computing/basic-unix.html
