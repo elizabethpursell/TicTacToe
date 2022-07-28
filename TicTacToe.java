@@ -1,9 +1,8 @@
 /* 
 Name:Elizabeth Pursell
 Date: 4/7/2022
-CSE 007 Spring 2022: Homework 6
+CSE 007 Spring 2022
 Produce TicTacToe program that will simulate a game of Tic-Tac-Toe
-IDE Used: Visual Studio Code
 */
 import java.util.Scanner;       //import classes
 public class TicTacToe {
