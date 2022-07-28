@@ -10,7 +10,7 @@ This project simulates a game of Tic-Tac_Toe in the terminal. It uses arrays to 
 - Java
   - Classes: java.util.Scanner
   - Skills: custom methods, user input validation, arrays
-- Unix
+- Unix Commands
 ## Project Setup
 ### Running the Code
 Download the files from the GitHub repository. Open the files in an IDE. In the IDE terminal, navigate to the folder where the files are held using the Unix command "cd". Once in the correct folder, compile the files using the command "javac fileName", and run the code using the command "java fileName".
